@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="english_language">English</string>
+    <string name="chinese_language">Chinese</string>
+    <string name="hindi_language">Hindi</string>
+</resources>
